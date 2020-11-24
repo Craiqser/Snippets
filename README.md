@@ -1,21 +1,21 @@
-# Snippets
+# __Snippets__
 
 ## Content
 
-- ### __Ax__
+- ### __[Ax](Ax/README.md)__
 
-- ### __C#__
+- ### __[C#](C#/README.md)__
 
-- ### __Git__
+- ### __[Git](Git/README.md)__
 
-- ### __JavaScript__
+- ### __[JavaScript](JavaScript/README.md)__
 
-- ### __Markdown__
+- ### __[Markdown](Markdown/README.md)__
 
-- ### __MS SQL__
+- ### __[MS SQL](MSSQL/README.md)__
 
-- ### __TypeScript__
+- ### __[TypeScript](TypeScript/README.md)__
 
-- ### __Vue__
+- ### __[Vue](Vue3/README.md)__
 
-- ### __X++__
+- ### __[X++](X++/README.md)__
