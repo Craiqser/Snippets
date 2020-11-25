@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - X++__
+# **[Snippets](../README.md) - X++**

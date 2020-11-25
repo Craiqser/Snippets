@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - Markdown__
+# **[Snippets](../README.md) - Markdown**

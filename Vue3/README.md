@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - Vue 3__
+# **[Snippets](../README.md) - Vue 3**

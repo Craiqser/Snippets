@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - Bitrix__
+# **[Snippets](../README.md) - Bitrix**

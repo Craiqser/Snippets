@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - C#__
+# **[Snippets](../README.md) - C#**

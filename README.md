@@ -1,23 +1,21 @@
-# __Snippets__
+# **Snippets**
 
-## Content
+- ## **[Ax](Ax/README.md)**
 
-- ### __[Ax](Ax/README.md)__
+- ## **[Bitrix](Bitrix/README.md)**
 
-- ### __[Bitrix](Bitrix/README.md)__
+- ## **[C#](CSharp/README.md)**
 
-- ### __[C#](CSharp/README.md)__
+- ## **[Git](Git/README.md)**
 
-- ### __[Git](Git/README.md)__
+- ## **[JavaScript](JavaScript/README.md)**
 
-- ### __[JavaScript](JavaScript/README.md)__
+- ## **[Markdown](Markdown/README.md)**
 
-- ### __[Markdown](Markdown/README.md)__
+- ## **[MS SQL](MSSQL/README.md)**
 
-- ### __[MS SQL](MSSQL/README.md)__
+- ## **[TypeScript](TypeScript/Index.md)**
 
-- ### __[TypeScript](TypeScript/README.md)__
+- ## **[Vue](Vue3/README.md)**
 
-- ### __[Vue](Vue3/README.md)__
-
-- ### __[X++](X++/README.md)__
+- ## **[X++](X++/README.md)**

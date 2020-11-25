@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - MS SQL__
+# **[Snippets](../README.md) - MS SQL**

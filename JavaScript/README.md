@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - JavaScript__
+# **[Snippets](../README.md) - JavaScript**

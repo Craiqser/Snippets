@@ -1,1 +1,1 @@
-# __[Snippets](../README.md) - Git__
+# **[Snippets](../README.md) - Git**
