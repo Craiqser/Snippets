@@ -35,3 +35,23 @@ npm install i18next@0.13.2
 npm uninstall i18next
 npm uninstall i18next -g
 ```
+
+## Пример одновременного запуска задач
+
+- Средствами npm:
+
+```bash
+npm run watch-js & npm run watch-css
+```
+
+- С помощью пакета [concurrently](https://www.npmjs.com/package/concurrently)
+
+```json
+{
+  "scripts": {
+    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "dev:backend": "nodemon src/server/index.js --watch",
+    "dev:frontend": "vue-cli-service serve --port 3000"
+  }
+}
+```
