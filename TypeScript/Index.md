@@ -2,6 +2,6 @@
 
 [typescriptlang.org](https://www.typescriptlang.org/)
 
-- ## **[Установка и обновление](./Install.md)**
+- ## **[Установка и обновление](./install.md)**
 
-- ## **[Типы данных](./Types.md)**
+- ## **[Типы данных](./types.md)**

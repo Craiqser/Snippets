@@ -6,6 +6,8 @@
 
 - ## **[C#](CSharp/README.md)**
 
+- ## **[CSS](CSS/index.md)**
+
 - ## **[Git](Git/README.md)**
 
 - ## **[JavaScript](JavaScript/README.md)**
@@ -14,9 +16,9 @@
 
 - ## **[MS SQL](MSSQL/README.md)**
 
-- ## **[NPM](NPM/Index.md)**
+- ## **[NPM](NPM/index.md)**
 
-- ## **[TypeScript](TypeScript/Index.md)**
+- ## **[TypeScript](TypeScript/index.md)**
 
 - ## **[Vue](Vue3/README.md)**
 
