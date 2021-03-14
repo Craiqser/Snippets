@@ -1,3 +1,3 @@
 # **[Snippets](../README.md) - CSS**
 
-[Базовый файл](./main.css)
+[Базовые стили](./main.css)
