@@ -17,37 +17,48 @@ curl https://npmjs.org/install.sh | sh
 npm install npm -g
 ```
 
-## Поиск и просмотр информации о пакете
+## Инициализация проекта
 
 ```bash
-npm search i18next
-npm view i18next
+npm init
 ```
 
-## Локальная и глобальная установка пакета
+## Установка всех зависимостей
+```bash
+npm install
+```
+
+## Поиск и просмотр информации о зависимости
 
 ```bash
-npm install i18next
-npm install i18next -g
+npm search [package]
+npm view [package]
 ```
 
-## Установка конкретной версии пакета
+## Локальная и глобальная установка зависимости
 
 ```bash
-npm install i18next@0.13.2
+npm install [package]
+npm install [package] -g
 ```
 
-## Проверка обновлений пакетов
+## Установка конкретной версии зависимости
+
+```bash
+npm install [package]@[version]
+```
+
+## Проверка обновлений зависимостей
 
 ```bash
 npm outdated
 ```
 
-## Локальное и глобальное удаление пакета
+## Локальное и глобальное удаление зависимости
 
 ```bash
-npm uninstall i18next
-npm uninstall i18next -g
+npm uninstall [package]
+npm uninstall [package] -g
 ```
 
 ## Пример одновременного запуска задач
@@ -62,10 +73,10 @@ npm run watch-js & npm run watch-css
 
 ```json
 {
-  "scripts": {
-    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\"",
-    "dev:backend": "nodemon src/server/index.js --watch",
-    "dev:frontend": "vue-cli-service serve --port 3000"
-  }
+	"scripts": {
+		"dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\"",
+		"dev:backend": "nodemon src/server/index.js --watch",
+		"dev:frontend": "vue-cli-service serve --port 3000"
+	}
 }
 ```
