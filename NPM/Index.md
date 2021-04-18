@@ -4,8 +4,16 @@
 
 ## Установка и обновление NPM
 
+Windows: ставится вместе с nodejs (https://nodejs.org/ru/);\
+Unix-like:
+
 ```bash
 curl https://npmjs.org/install.sh | sh
+```
+
+Обновление:
+
+```bash
 npm install npm -g
 ```
 
@@ -27,6 +35,12 @@ npm install i18next -g
 
 ```bash
 npm install i18next@0.13.2
+```
+
+## Проверка обновлений пакетов
+
+```bash
+npm outdated
 ```
 
 ## Локальное и глобальное удаление пакета
