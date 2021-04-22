@@ -17,10 +17,11 @@ curl https://npmjs.org/install.sh | sh
 npm install npm -g
 ```
 
-## Инициализация проекта
+## Инициализация проекта с вопросами и без.
 
 ```bash
 npm init
+npm init -y
 ```
 
 ## Установка всех зависимостей
