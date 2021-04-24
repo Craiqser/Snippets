@@ -49,8 +49,8 @@ yarn add [package]@[tag]
 ## Добавление зависимости различных категорий
 
 ```bash
-yarn add [package] --dev  # dev-зависимости
-yarn add [package] --peer # peer-зависимости
+yarn add [package] --dev
+yarn add [package] --peer
 ```
 
 ## Обновление зависимости
