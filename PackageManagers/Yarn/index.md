@@ -1,4 +1,4 @@
-# **[Snippets](../README.md) - Yarn**
+# **[Snippets](./../../README.md) - Yarn**
 
 [yarnpkg.com](https://yarnpkg.com/)
 

@@ -1,4 +1,4 @@
-# **[Snippets](../README.md) - NPM**
+# **[Snippets](./../../README.md) - NPM**
 
 [www.npmjs.com](https://www.npmjs.com/)
 
