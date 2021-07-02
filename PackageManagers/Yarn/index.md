@@ -53,6 +53,13 @@ yarn add [package] --dev
 yarn add [package] --peer
 ```
 
+## Игнорирование различных проверок
+
+```bash
+yarn install --ignore-engines
+yarn install --ignore-optional
+```
+
 ## Обновление зависимости
 
 ```bash
